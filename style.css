@@ -1,0 +1,10 @@
+.retangulo{
+    position: absolute;
+width: 521px;
+height: 166px;
+left: 272px;
+top: 191px;
+
+background: rgba(14, 140, 87, 0.72);
+mix-blend-mode: normal;
+}
