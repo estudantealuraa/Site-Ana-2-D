@@ -7,4 +7,21 @@ top: 191px;
 
 background: rgba(14, 140, 87, 0.72);
 mix-blend-mode: normal;
+
+#image 1(1) {
+  position: absolute;
+width: 253.41px;
+height: 186.6px;
+left: 81.73px;
+top: 327px;
+
 }
+
+#image3{
+  position: absolute;
+width: 221.61px;
+height: 183.22px;
+transform: rotate(-28.53deg);
+}
+
+#image
