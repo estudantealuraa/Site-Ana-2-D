@@ -1,42 +1,5 @@
-.retangulo{
-    position: absolute;
-width: 521px;
-height: 166px;
-left: 272px;
-top: 191px;
-
-background: rgba(14, 140, 87, 0.72);
-mix-blend-mode: normal;
-
-#image 1(1) {
-  position: absolute;
-width: 253.41px;
-height: 186.6px;
-left: 81.73px;
-top: 327px;
-
-}
-
-#image3{
-  position: absolute;
-width: 221.61px;
-height: 183.22px;
-transform: rotate(-28.53deg);
-}
-
-#image5{
-    position: absolute;
-width: 230.46px;
-height: 180.66px;
-border-radius: 4px;
- transform: rotate(-21.15deg);
- }
-#image7{
-    position: absolute;
-width: 194.61px;
-height: 190px;
-left: 806.41px;
-    top: 359px;}
-
-
-    
+img{
+  X: -13114px
+Y: -7254px
+W: 2931px
+H: 2932px}
