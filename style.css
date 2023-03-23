@@ -1,5 +1,78 @@
-img{
-  X: -13114px
-Y: -7254px
-W: 2931px
-H: 2932px}
+.retangulo{
+    position: absolute;
+width: 521px;
+height: 166px;
+left: 272px;
+top: 191px;
+
+background: rgba(14, 140, 87, 0.72);
+mix-blend-mode: normal;
+}
+
+h1{
+  position: absolute;
+width: 881px;
+height: 35px;
+left: 600px;
+top: 61px;
+
+font-family: 'Kite One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+/* identical to box height */
+
+text-align: center;
+text-transform: capitalize;
+}
+p{
+  position: absolute;
+width: 500px;
+height: 400px;
+left: 15px;
+top: 10px;
+
+font-family: 'Inconsolata';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 26px;
+text-align: center;
+
+color: #000000;
+
+}
+
+#image1 {
+
+position: absolute;
+width: 211.43px;
+height: 166.96px;
+left: 600px;
+top: 10px;
+
+}
+
+#image3{
+  position: absolute;
+  width: 208.46px;
+  height: 172.69px;
+  left: 1000px;
+  top: 10px;
+}
+
+#image5{
+  position: absolute;
+width: 207.9px;
+height: 165.52px;
+left: 1200px;
+top: 10px;
+
+ }
+#image7{
+  position: absolute;
+width: 194.61px;
+height: 190px;
+left: 800px;
+top: 10px;}
