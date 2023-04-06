@@ -13,7 +13,7 @@ h1{
   position: absolute;
 width: 881px;
 height: 35px;
-left: 600px;
+left: 580px;
 top: 61px;
 
 font-family: 'Kite One';
@@ -30,7 +30,7 @@ p{
   position: absolute;
 width: 500px;
 height: 400px;
-left: 15px;
+left: 10px;
 top: 10px;
 
 font-family: 'Inconsolata';
@@ -76,3 +76,6 @@ width: 194.61px;
 height: 190px;
 left: 800px;
 top: 10px;}
+.galeria{
+  
+}
